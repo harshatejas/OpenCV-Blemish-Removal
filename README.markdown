@@ -32,8 +32,10 @@ The script (`submission.py`) performs the following tasks:
 The script produces an output image (`output_blemish_removed.png`), included in the repository, with blemishes removed.
 
 - **Input Image** (`blemish.png`):
+  
   ![Input Image with Blemishes](blemish.png)
 - **Output Image** (`output_blemish_removed.png`):
+  
   ![Output Image without Blemishes](output_blemish_removed.png)
 
 ## Acknowledgments
